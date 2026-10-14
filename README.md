@@ -6,7 +6,7 @@
 
 ## 📖 Sobre o Projeto
 
-Este é um jogo interativo de lógica onde o jogador precisa adivinhar um número secreto entre 1 e 100. O projeto conta com feedback visual e auditivo para guiar o usuário até a resposta correta, informando se o chute deve ser maior ou menor. 
+Este é um jogo interativo, desenvolvido durante o curso de '**Lógica de Programação: mergulhe em programação com JavaScript**' da **Alura**  de lógica onde o jogador precisa adivinhar um número secreto entre 1 e 100. O projeto conta com feedback visual e auditivo para guiar o usuário até a resposta correta, informando se o chute deve ser maior ou menor. 
 
 ## ✨ Funcionalidades
 
